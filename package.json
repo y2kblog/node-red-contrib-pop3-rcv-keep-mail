@@ -27,4 +27,5 @@
       "pop3-rcv-keep-mail": "pop3-rcv-keep-mail.js"
     }
   }
+  ,"publishConfig": { "registry": "https://npm.pkg.github.com/" }
 }
