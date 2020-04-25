@@ -1,5 +1,5 @@
 {
-  "name": "red-contrib-pop3-rcv-keep-mail",
+  "name": "node-red-contrib-pop3-rcv-keep-mail",
   "version": "0.0.1",
   "description": "Node-RED node to receive mails while keeping them on the POP3 server",
   "dependencies": {
