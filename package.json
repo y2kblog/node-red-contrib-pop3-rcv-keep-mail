@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "none"
+    "url": "git+https://github.com/y2kblog/node-red-contrib-pop3-rcv-keep-mail.git"
   },
   "license": "MIT",
   "keywords": [
