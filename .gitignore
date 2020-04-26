@@ -108,7 +108,7 @@ dist
 .DS_Store
 .git
 .hg
-.npmrc
+# .npmrc
 .lock-wscript
 .svn
 .wafpickle-*
