@@ -1,6 +1,6 @@
 {
   "name": "@y2kblog/node-red-contrib-pop3-rcv-keep-mail",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Node-RED node to receive mails while keeping them on the POP3 server",
   "dependencies": {
     "poplib": "^0.1.7",
